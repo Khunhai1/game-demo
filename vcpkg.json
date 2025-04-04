@@ -1,0 +1,10 @@
+{
+  "name": "game-project",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "sdl3",
+    "sdl3-ttf",
+    "sdl3-image",
+    "flecs"
+  ]
+}
